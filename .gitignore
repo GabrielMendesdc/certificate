@@ -1,1 +1,4 @@
-docs excel pdfs python
+docs/**
+excel/**
+pdfs python/**
+pdfs python.rar
